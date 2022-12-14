@@ -1,6 +1,8 @@
 # DapParaview
 
-A conveter from DAP3D to ParaView 5.10.0-RC1
+DapParaview-v1.1 is the most complet version.
+
+A converter of Multibody Visualizations from DAP3D to ParaView 5.10.0-RC1
 
 A Program develloped in: 
 MIRANDA, J. Visualização de Movimentos de Sistemas Mecânicos. 2022, Dissertação (Mestrado em Engenharia Mecânica) – Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa, 2022.
