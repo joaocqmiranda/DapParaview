@@ -17,3 +17,6 @@ R. J. F. Portal, "Developmet of Vehicle collision Methodologies for Application 
 1st- Run the programa and select the file that you want to convert.
 
 2nd- Go to Paraview press "Run Script" and select the generated file.
+
+#### Contact:
+joaocqmiranda@gmail.com
